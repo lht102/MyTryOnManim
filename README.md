@@ -1,0 +1,2 @@
+# MyTryOnManim
+Play with manim
